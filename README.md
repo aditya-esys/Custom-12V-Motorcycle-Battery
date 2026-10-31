@@ -4,10 +4,8 @@ A custom-built 12V battery pack designed from scratch to replace traditional lea
 
 ## 📸 Hardware Overview
 
-<div align="center">
-  <img src="WhatsApp Image 2026-10-31 at 10.25.06 PM.jpeg" width="400" alt="4S BMS and 32700 Cells">
-  <img src="WhatsApp Image 2026-10-31 at 10.25.06 PM (1).jpeg" width="400" alt="Sunboard Enclosure">
-</div>
+<img width="1080" height="1350" alt="00_Cover" src="https://github.com/user-attachments/assets/8455e7a1-cc24-439d-9b60-46491ebbb5c7" />
+
 
 ## 🛠️ Components & Engineering Details
 * **Power Source:** 4 x 32700 Lithium batteries connected in series to provide a stable 12V output.
@@ -23,5 +21,5 @@ This project demonstrates practical skills in power electronics, high-current ba
 <img width="2280" height="1580" alt="clean_B" src="https://github.com/user-attachments/assets/b6f60766-ec6f-47d6-9def-53574211dba1" />
 <img width="1080" height="1350" alt="04_Inside_Enclosure" src="https://github.com/user-attachments/assets/c69c4075-005b-4295-bf1a-bf58e349012c" />
 <img width="1080" height="1350" alt="02_Top_View_BMS" src="https://github.com/user-attachments/assets/f09b44bd-557d-4bbb-83e1-47eabb9d92b4" />
-<img width="1080" height="1350" alt="00_Cover" src="https://github.com/user-attachments/assets/8455e7a1-cc24-439d-9b60-46491ebbb5c7" />
+
 
